@@ -1,0 +1,102 @@
+{
+  "Medals": [
+    {
+      "generation": "1Gen",
+      "medals": [
+        {
+          "name": "Stone",
+          "visibility": "False",
+          "id": 0
+        },
+        {
+          "name": "Waterfall",
+          "visibility": "False",
+          "id": 1
+        },
+        {
+          "name": "Thunder",
+          "visibility": "False",
+          "id": 2
+        },
+        {
+          "name": "Rainbow",
+          "visibility": "False",
+          "id": 3
+        },
+        {
+          "name": "Soul",
+          "visibility": "False",
+          "id": 4
+        },
+        {
+          "name": "Swamp",
+          "visibility": "False",
+          "id": 5
+        },
+        {
+          "name": "Volcano",
+          "visibility": "False",
+          "id": 6
+        },
+        {
+          "name": "Land",
+          "visibility": "False",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "generation": "2Gen",
+      "medals": []
+    },
+    {
+      "generation": "3Gen",
+      "medals": []
+    },
+    {
+      "generation": "4Gen",
+      "medals": [
+        {
+          "name": "Lignite",
+          "visibility": "False",
+          "id": 8
+        },
+        {
+          "name": "Forest",
+          "visibility": "False",
+          "id": 9
+        },
+        {
+          "name": "Cobble",
+          "visibility": "False",
+          "id": 10
+        },
+        {
+          "name": "Swamp2",
+          "visibility": "False",
+          "id": 11
+        },
+        {
+          "name": "Relic",
+          "visibility": "False",
+          "id": 12
+        },
+        {
+          "name": "Mine",
+          "visibility": "False",
+          "id": 13
+        },
+        {
+          "name": "Icicle",
+          "visibility": "False",
+          "id": 14
+        },
+        {
+          "name": "Lighthouse",
+          "visibility": "False",
+          "id": 15
+        }
+      ]
+    }
+  ]
+}
